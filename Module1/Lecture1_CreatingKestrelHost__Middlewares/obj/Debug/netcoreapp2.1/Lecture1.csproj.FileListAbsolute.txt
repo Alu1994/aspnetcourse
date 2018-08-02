@@ -1,0 +1,11 @@
+C:\Users\caval\Documents\Visual Studio 2017\Projects\AspNetCourse\Lecture1\bin\Debug\netcoreapp2.1\Lecture1.deps.json
+C:\Users\caval\Documents\Visual Studio 2017\Projects\AspNetCourse\Lecture1\bin\Debug\netcoreapp2.1\Lecture1.runtimeconfig.json
+C:\Users\caval\Documents\Visual Studio 2017\Projects\AspNetCourse\Lecture1\bin\Debug\netcoreapp2.1\Lecture1.runtimeconfig.dev.json
+C:\Users\caval\Documents\Visual Studio 2017\Projects\AspNetCourse\Lecture1\bin\Debug\netcoreapp2.1\Lecture1.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\AspNetCourse\Lecture1\bin\Debug\netcoreapp2.1\Lecture1.pdb
+C:\Users\caval\Documents\Visual Studio 2017\Projects\AspNetCourse\Lecture1\obj\Debug\netcoreapp2.1\Lecture1.csprojAssemblyReference.cache
+C:\Users\caval\Documents\Visual Studio 2017\Projects\AspNetCourse\Lecture1\obj\Debug\netcoreapp2.1\Lecture1.csproj.CoreCompileInputs.cache
+C:\Users\caval\Documents\Visual Studio 2017\Projects\AspNetCourse\Lecture1\obj\Debug\netcoreapp2.1\Lecture1.AssemblyInfoInputs.cache
+C:\Users\caval\Documents\Visual Studio 2017\Projects\AspNetCourse\Lecture1\obj\Debug\netcoreapp2.1\Lecture1.AssemblyInfo.cs
+C:\Users\caval\Documents\Visual Studio 2017\Projects\AspNetCourse\Lecture1\obj\Debug\netcoreapp2.1\Lecture1.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\AspNetCourse\Lecture1\obj\Debug\netcoreapp2.1\Lecture1.pdb
