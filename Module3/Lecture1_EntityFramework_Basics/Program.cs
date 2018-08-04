@@ -1,13 +1,7 @@
-﻿using System;
-using System.Collections.Generic;
-using System.IO;
-using System.Linq;
-using System.Reflection;
-using System.Threading.Tasks;
+﻿using System.IO;
 using Microsoft.AspNetCore;
 using Microsoft.AspNetCore.Hosting;
 using Microsoft.Extensions.Configuration;
-using Microsoft.Extensions.Logging;
 
 namespace Lecture1_EntityFramework_Basics
 {
@@ -22,7 +16,7 @@ namespace Lecture1_EntityFramework_Basics
             .Build()
             .Run();
         }
-        
+
         public static IWebHostBuilder CreateWebHostBuilder(string[] args, IConfigurationRoot config) =>
             WebHost.CreateDefaultBuilder(args)
                 .UseConfiguration(config)

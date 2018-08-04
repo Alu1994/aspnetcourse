@@ -5,13 +5,21 @@ using System.Linq;
 using System.Threading.Tasks;
 using Microsoft.AspNetCore.Mvc;
 using Lecture1_EntityFramework_Basics.Models;
+using Microsoft.Extensions.Configuration;
 
 namespace Lecture1_EntityFramework_Basics.Controllers
 {
     public class HomeController : Controller
     {
+        private IConfiguration _configuration;
+
+        public HomeController(IConfiguration configuration)
+        {
+            _configuration = configuration;
+        }
         public IActionResult Index()
         {
+            ViewBag.Environment = _configuration.GetValue<string>("Environment");
             return View();
         }
 
