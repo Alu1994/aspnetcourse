@@ -10,7 +10,7 @@ using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 namespace Lecture1_EntityFramework_Basics.Migrations
 {
     [DbContext(typeof(ApplicationDbContext))]
-    [Migration("20180804171647_secondUseOfModelCreating")]
+    [Migration("20180804173816_secondUseOfModelCreating")]
     partial class secondUseOfModelCreating
     {
         protected override void BuildTargetModel(ModelBuilder modelBuilder)
