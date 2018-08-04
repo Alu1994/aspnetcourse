@@ -30,3 +30,4 @@ C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\M
 C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module3\Lecture1_EntityFramework_Basics\obj\Debug\netcoreapp2.1\Lecture1_EntityFramework_Basics.dll
 C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module3\Lecture1_EntityFramework_Basics\obj\Debug\netcoreapp2.1\Lecture1_EntityFramework_Basics.pdb
 C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module3\Lecture1_EntityFramework_Basics\obj\Debug\netcoreapp2.1\Lecture1_EntityFramework_Basics.csproj.CopyComplete
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module3\Lecture1_EntityFramework_Basics\obj\Debug\netcoreapp2.1\Razor\Views\Category\Index.g.cshtml.cs

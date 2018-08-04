@@ -5,7 +5,7 @@ namespace Lecture1_EntityFramework_Basics.Data
 {
     public class ProductModeling
     {
-        private ModelBuilder _modelo;
+        private readonly ModelBuilder _modelo;
         public ProductModeling(ModelBuilder modelo)
         {
             _modelo = modelo;

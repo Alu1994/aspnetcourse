@@ -81,7 +81,8 @@ namespace Lecture1_EntityFramework_Basics
             {
                 routes.MapRoute(
                     name: "default",
-                    template: "{controller=Home}/{action=Index}/{id?}").MapRoute(
+                    template: "{controller=Home}/{action=Index}/{id?}")
+                    .MapRoute(
                         name: "about-rout", 
                         template: "about", 
                         defaults: new { controller = "Home", action = "About" }
@@ -95,6 +96,11 @@ namespace Lecture1_EntityFramework_Basics
                         name: "product-save", 
                         template: "product", 
                         defaults: new { controller = "Product", action = "Save" }
+                    )
+                    .MapRoute(
+                        name: "category-save", 
+                        template: "category", 
+                        defaults: new { controller = "Category", action = "Register" }
                     );
             });
         }
