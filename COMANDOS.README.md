@@ -12,9 +12,15 @@ dotnet restore
 ```
 dotnet build
 ```
+
 ### EXECUTE YOUR APP
 ```
 dotnet run
+```
+
+### EXECUTE YOUR APP WITHOUT USING THE LAUGHTSETTINGS.JSON FILE (SO IT WILL CHECK ON YOUR ENVIRONMENT VARIABLE XD)
+```
+dotnet run --no-launch-profile
 ```
 
 ### EXECUTE AND WATCH NEW UPDATES ON YOUR APP TO UPDATE IT ON RUN TIME
