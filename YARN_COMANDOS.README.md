@@ -72,7 +72,7 @@ gulp.task('js', function(){
 });
 ```
 
-### MIGRACAO DOS ARQUIVOS CSS
+### MIGRACAO DOS ARQUIVOS JS
 ```
 var gulp = require('gulp');
 var concat = require('gulp-concat');
