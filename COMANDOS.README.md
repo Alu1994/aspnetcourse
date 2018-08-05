@@ -33,6 +33,11 @@ dotnet watch run
 dotnet new mvc
 ```
 
+### CREATE NEW MVC APP WITH IDENTITY
+```
+dotnet new mvc --auth Individual --use-local-db true
+```
+
 ### DOWNLOAD A NUGET PACKAGE
 ```
 dotnet add package "Microsoft.AspNetCore"
