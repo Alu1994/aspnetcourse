@@ -1,3 +1,8 @@
+### LIST ALL TEMPLATES
+```
+dotnet new --list
+```
+
 ### CREATE NEW CONSOLE
 ```
 dotnet new console
