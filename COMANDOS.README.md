@@ -1,6 +1,21 @@
+### CREATE NEW SOLUTION
+```
+dotnet new sln --name NameOfSolution
+```
+
+### ADD PROJECTS TO THE SOLUTION
+```
+dotnet sln add Caminho/Para/Projeto.csproj
+```
+
 ### CREATE NEW CONSOLE
 ```
 dotnet new console
+```
+
+### CREATE NEW CLASSLIBRARY WITH A NAME
+```
+dotnet new classlib --name NameOfTheClass
 ```
 
 ### RESTORE PROJECT (TO UPDATE WITH SOME NEW THINGS THAT YOU'VE MIGHT ADDED)
