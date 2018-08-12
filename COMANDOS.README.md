@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 ### CREATE NEW SOLUTION
 ```
 dotnet new sln --name NameOfSolution
@@ -6,6 +7,11 @@ dotnet new sln --name NameOfSolution
 ### ADD PROJECTS TO THE SOLUTION
 ```
 dotnet sln add Caminho/Para/Projeto.csproj
+=======
+### LIST ALL TEMPLATES
+```
+dotnet new --list
+>>>>>>> 7b0f1836db6672c4fc3d54b13668d5490626620f
 ```
 
 ### CREATE NEW CONSOLE
