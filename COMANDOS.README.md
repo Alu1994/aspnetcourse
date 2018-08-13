@@ -58,6 +58,11 @@ dotnet new mvc
 dotnet new mvc --auth Individual --use-local-db true
 ```
 
+### ADD PROJECT REFERENCE TO A PROJECT
+```
+dotnet add path/to/the/project.to.receive.the.reference.csproj reference path/to/the/project.to.be.referenced.csproj
+```
+
 ### DOWNLOAD A NUGET PACKAGE
 ```
 dotnet add package "Microsoft.AspNetCore"
@@ -76,6 +81,15 @@ dotnet ef database update
 ### DOWNGRADE YOUR DATABASE TO SOME OTHER VERSION
 ```
 dotnet ef database update "novamigracao"
+```
+
+### CONFIGURING MIGRATION TO THE PROJECT WITH DATABASE CONNECTION STRING
+```
+dotnet ef --startup-project ../StoreOfBuild.Web/StoreOfBuild.Web.csproj --project .\StoreOfBuild.Data.csproj migrations add AddCategory
+
+dotnet ef --startup-project ../StoreOfBuild.Web/StoreOfBuild.Web.csproj --project .\StoreOfBuild.Data.csproj migrations remove
+
+dotnet ef --startup-project ../StoreOfBuild.Web/StoreOfBuild.Web.csproj --project .\StoreOfBuild.Data.csproj database update
 ```
 
 ### DELETE THE MIGRATIONS FROM YOUR CODE ´´THAT WERE NOT UPDATE ON YOUR DATABASE``

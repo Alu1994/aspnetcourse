@@ -12,6 +12,7 @@ namespace StoreOfBuild.Domain.Products
             _productRepository = productRepository;
             _categoryRepository = categoryRepository;
         }
+        
         public void Store(ProductDto dto){
             var category = _categoryRepository.GetById(dto.CategoryId);
             DomainException.When(category == null, "Category invalid");

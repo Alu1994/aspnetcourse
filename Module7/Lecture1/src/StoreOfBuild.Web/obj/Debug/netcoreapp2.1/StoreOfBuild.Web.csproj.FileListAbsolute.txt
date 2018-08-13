@@ -32,3 +32,9 @@ C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\M
 C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.1\StoreOfBuild.Web.csproj.CopyComplete
 C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.1\Razor\Views\Category\CreateOrEdit.g.cshtml.cs
 C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\src\StoreOfBuild.Web\obj\Debug\netcoreapp2.1\Razor\Views\Category\Index.g.cshtml.cs
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.1\StoreOfBuild.DI.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.1\StoreOfBuild.DI.pdb
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.1\StoreOfBuild.Data.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.1\StoreOfBuild.Domain.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.1\StoreOfBuild.Data.pdb
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\src\StoreOfBuild.Web\bin\Debug\netcoreapp2.1\StoreOfBuild.Domain.pdb
