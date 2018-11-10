@@ -1,0 +1,14 @@
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\bin\Debug\netcoreapp2.1\NaoConsigoLerNada.Test.deps.json
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\bin\Debug\netcoreapp2.1\NaoConsigoLerNada.Test.runtimeconfig.json
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\bin\Debug\netcoreapp2.1\NaoConsigoLerNada.Test.runtimeconfig.dev.json
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\bin\Debug\netcoreapp2.1\NaoConsigoLerNada.Test.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\bin\Debug\netcoreapp2.1\NaoConsigoLerNada.Test.pdb
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\obj\Debug\netcoreapp2.1\NaoConsigoLerNada.Test.csprojAssemblyReference.cache
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\obj\Debug\netcoreapp2.1\NaoConsigoLerNada.Test.csproj.CoreCompileInputs.cache
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\obj\Debug\netcoreapp2.1\NaoConsigoLerNada.Test.AssemblyInfoInputs.cache
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\obj\Debug\netcoreapp2.1\NaoConsigoLerNada.Test.AssemblyInfo.cs
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\obj\Debug\netcoreapp2.1\NaoConsigoLerNada.Test.dll
+C:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\NaoConsigoLerNada.Test\obj\Debug\netcoreapp2.1\NaoConsigoLerNada.Test.pdb

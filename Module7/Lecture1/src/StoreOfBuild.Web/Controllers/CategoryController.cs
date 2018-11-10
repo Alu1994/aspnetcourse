@@ -33,8 +33,7 @@ namespace StoreOfBuild.Web.Controllers
         [HttpPost]
         public IActionResult CreateOrEdit(CategoryViewModel dto)
         {
-            if(ModelState.IsValid)
-                _categoryStorer.Store(dto.Id, dto.Name);
+            _categoryStorer.Store(dto.Id, dto.Name);
             return View();
         }
     }

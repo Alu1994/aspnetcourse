@@ -1,0 +1,14 @@
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\bin\Debug\netcoreapp2.1\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\bin\Debug\netcoreapp2.1\StoreOfBuild.Test.deps.json
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\bin\Debug\netcoreapp2.1\StoreOfBuild.Test.runtimeconfig.json
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\bin\Debug\netcoreapp2.1\StoreOfBuild.Test.runtimeconfig.dev.json
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\bin\Debug\netcoreapp2.1\StoreOfBuild.Test.dll
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\bin\Debug\netcoreapp2.1\StoreOfBuild.Test.pdb
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\obj\Debug\netcoreapp2.1\StoreOfBuild.Test.csprojAssemblyReference.cache
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\obj\Debug\netcoreapp2.1\StoreOfBuild.Test.csproj.CoreCompileInputs.cache
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\obj\Debug\netcoreapp2.1\StoreOfBuild.Test.AssemblyInfoInputs.cache
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\obj\Debug\netcoreapp2.1\StoreOfBuild.Test.AssemblyInfo.cs
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\obj\Debug\netcoreapp2.1\StoreOfBuild.Test.dll
+c:\Users\caval\Documents\Visual Studio 2017\Projects\Repositories\aspnetcourse\Module7\Lecture1\test\StoreOfBuild.Test\obj\Debug\netcoreapp2.1\StoreOfBuild.Test.pdb

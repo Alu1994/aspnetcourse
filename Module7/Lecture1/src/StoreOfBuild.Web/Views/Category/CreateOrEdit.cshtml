@@ -5,13 +5,17 @@
 @section Scripts {
     <script src="/js/jquery.validate.min.js"></script>
     <script src="/js/jquery.validate.unobtrusive.js"></script>
+    <script src="/js/jquery.unobtrusive-ajax.min"></script>
+    <script src="/lib/jquery-validation-unobtrusive/jquery.unobtrusive-ajax.min.js"></script>
 }
 <div>
     <a href="/Category" class="btn btn-primary">New</a>
 </div>
 <div class="row form-wrapper">
     <div class="col-md-12">
-        <form id="form" class="form-horizontal" asp-action="CreateOrEdit" asp-controller="Category" asp-anti-forgery>
+        <form id="form" class="form-horizontal" asp-action="CreateOrEdit" asp-controller="Category" 
+        data-ajax="true" data-ajax-method="POST" data-ajax-failure="formOnFail" data-ajax-success="window.location = '/Category'"
+        asp-anti-forgery>
             <div class="form-group">
                 <label class="col-md-2 control-label">Name</label>
                 <div class="col-md-8">
